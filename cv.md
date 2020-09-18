@@ -4,11 +4,10 @@
 
 ### Contact
 
-- Republic of Belarus, Lida, Sovetskaya st., 44/50.
-- email: Matsukvlad339@gmail.com.
-- https://github.com/Vladislav110.
-- tel. +375447927789.
-  git commit -n "docs:add information about yourself"
+- Republic of Belarus, Lida, Sovetskaya st., 44/50
+- email: Matsukvlad339@gmail.com
+- https://github.com/Vladislav110
+- tel. +375447927789
 
 ### My goals
 
