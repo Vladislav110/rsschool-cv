@@ -22,17 +22,18 @@
 
 ```
 const getNumberExp = (number) => {
-switch (number) {
-case 6:
-return ‘bad number';
-case 21:
-return ‘Blackjack number';
-case 42:
-return 'answer for everything';
-default:
-return null;
-}
+    switch (number) {
+        case 6:
+            return ‘bad number';
+        case 21:
+            return ‘Blackjack number';
+        case 42:
+            return 'answer for everything';
+        default:
+            return null;
+    }
 };
+
 ```
 
 ### My experience
