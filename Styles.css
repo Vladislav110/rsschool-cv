@@ -1,0 +1,53 @@
+body {
+    width:1024px;
+    background-color: rgba(53, 129, 143, 0.363);
+    margin: auto;
+
+}
+header {
+    text-align: center;
+    font-size: 20px;
+    padding:20px;
+    color: black;
+    text-decoration: underline;
+    background: rgba(60, 142, 167, 0.37); /* Цвет фона */
+    border: 1px solid black; /* Параметры рамки */
+}
+.photo{
+    text-align: right; 
+    float: right; 
+    margin: 0px 0px 7px 7px;
+    border: 1px solid black;
+}
+.code{
+    float: right; 
+    text-align: center;
+    background: rgba(58, 65, 131, 0.062);
+    padding:5px; 
+    margin: 40px; 
+    display: block;
+    width: 450px;
+    border: 1px solid rgb(19, 19, 46);
+    margin: 2px;
+}
+.contacts {
+    text-align: center;
+    font-size: 15px;
+    padding:10px;
+    color: black;
+    text-decoration: underline;
+    float: left;
+    display: block;
+    width: 450px;
+    background: rgba(58, 65, 131, 0.062);
+    border: 1px solid rgba(40, 69, 133, 0.397);
+    margin: 2px;
+}
+
+.h{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-size: 14px;
+    line-height: 15px;
+}
